@@ -1,1 +1,38 @@
 # Competitions-for-CSE-Students
+
+- Programming Contests
+  - ICPC Dhaka Regional
+  - NCPC
+  - NGPC
+  - Ada Lovelace NGPC
+  - BUET IUPC
+  - RUET IUPC
+  - AUST IUPC
+  - SEC Junior IUPC
+  - SRBD Coding Contest
+  - Google Codejam
+  - Google Hashcode
+  - Facebook Hackercup
+  - 
+- Hackathons
+  - NASA Space Apps Challenge Bangladesh
+  - NASA Space Apps Challenge
+  - Bangladesh Blockchain Olympiad
+  - International Blockchain Olympiad
+  - National STEM Festival
+  - BASIS National ICT Award
+  - BUET CSE Fest Hackathon
+  - RUET Hackathon
+  - MIST Innovation Fest
+  - MIST Tri Robo Cup
+  - Code Samurai DU
+  - Hack The Verse DU IIT
+  - Hack NSU
+  - Robi Hackathon
+  - GP Hackathon
+  - BD Apps Hackathon
+  - Microsoft Imagine Cup
+- CTF
+- AI and ML
+  - BUET CSE Fest AI Contest
+- Poster Presentation
