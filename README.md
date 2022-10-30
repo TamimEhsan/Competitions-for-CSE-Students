@@ -12,12 +12,12 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 
 | Name                                                         | Organizer                                                   | Prize                                                        | Extra Info                        |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
-| **International Collegiate Programming Contest**             | ACM                                                         | Recognition                                                  |                                   |
+| [**International Collegiate Programming Contest**](https://icpc.global/) | ACM                                                         | Recognition                                                  |                                   |
 | **International Collegiate Programming Contest Dhaka Regional** | BAPS                                                        | Participation in ICPC final and many other prizes for top ten |                                   |
-| Google Codejam                                               | Google                                                      | Prizes in different rounds                                   |                                   |
-| [Code Jam to I/O for Women](https://codingcompetitions.withgoogle.com/codejamio/archive)                                               | Google                                                      | As a Code Jam to I/O for Women contestant, you will receive a certificate after the Round, as long as you make one submission.                                    |                                   |
-| **Google Hashcode**                                          | Google                                                      |                                                              |                                   |
-| **Meta Hackercup**                                           | Meta                                                        | Prizes in different rounds                                   |                                   |
+| [**Google Codejam**](https://codingcompetitions.withgoogle.com/codejam) | Google                                                      | Prizes in different rounds                                   |                                   |
+| [**Code Jam to I/O for Women**](https://codingcompetitions.withgoogle.com/codejamio/archive) | Google                                                      | As a Code Jam to I/O for Women contestant, you will receive a certificate after the Round, as long as you make one submission. |                                   |
+| [**Google Hashcode**](https://codingcompetitions.withgoogle.com/hashcode) | Google                                                      |                                                              |                                   |
+| [**Meta Hackercup**](https://www.facebook.com/codingcompetitions/hacker-cup) | Meta                                                        | Prizes in different rounds                                   |                                   |
 | **National Collegiate Programming Contest**                  | ICT Ministry                                                | Prizemoney for top 10 teams                                  |                                   |
 | **National Girls Programming Contest**                       |                                                             |                                                              | For Female Contestants            |
 | **Ada Lovelace National Girls' Programming Contest**         | BdOSN                                                       | Prizemoney for top 3 team                                    | For Female Contestants            |
@@ -32,30 +32,30 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 
 ## Hackathons
 
-| Name                                          | Organizer               | Prizes                                                       | Extra Info                                           |
-| --------------------------------------------- | ----------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| **Microsoft Imagine Cup**                     | Microsoft               | USD 100,000 cash prize, and mentorship with Microsoft Chairman and CEO, Satya Nadella |                                                      |
-| **NASA Space Apps Challenge**                 | NASA                    | Recognition and chance to visit NASA                         |                                                      |
-| **NASA Space Apps Challenge Bangladesh**      | BASIS                   | Recognition and qualify to global round                      |                                                      |
-| **International Blockchain Olympiad**         | IBCOL                   | Recognition, mentorship for 50+ teams                        |                                                      |
-| **Bangladesh Blockchain Olympiad**            | BCOLBD                  | Prizemoney of more than 10 lakhs+ for 15+ teams and qualification to International |                                                      |
-| **APICTA Awards**                             | APICTA                  | Recognition                                                  | known as the Oscars of the Asia-Pacific ICT industry |
-| **BASIS National ICT Awards**                 | BASIS                   | Recognition and qualification to APICTA Awards               |                                                      |
-| **National STEM Festival**                    | BdSTEM                  | Prizemoney worth 3 lakhs+ for top 3 teams                    |                                                      |
-| **Robi Hackathon**                            | Robi                    |                                                              |                                                      |
-| **Digital Ninja Codemasters Hackathon**       | GP                      |                                                              |                                                      |
-| **GP Skitto Hackathon**                       | GP                      | Prizemoney of 2lakhs for top 3 teams                         |                                                      |
-| **BD Apps National Hackathon**                | BD Apss                 | Prizemoney worth 5 lakhs                                     |                                                      |
-| **Therap Java Fest**                          | Therap BD               | Smartphones for top 3 team                                   |                                                      |
-| **Affine Hackathon**                          | Affine, BdOSN           | Prizemoney of 1.5 lakhs                                      | Web3 based                                           |
-| **BdOSN devmania**                            | BdOSN                   |                                                              |                                                      |
-| **BUET CSE Fest Hackathon**                   | BUET CSE Dept           | Prizemoney worth 2.5 lakhs+ for 10 teams                     |                                                      |
-| **MIST Inter University ICT Innovation Fest** | MIST Computer Club      | Prizemoney of 3.15 lakh for 10 teams                         |                                                      |
-| **HACK NSU**                                  | NSU ACM Student Chapter | Prizemoney of 50K for 3 teams                                |                                                      |
-| **Code Samurai DU**                           | DU CSE Dept             |                                                              |                                                      |
-| **RUET CSE Fest Hackathon**                   | RUET CSE Dept           |                                                              |                                                      |
-| **Hack The Verse IIT**                        | DU IIT Dept             |                                                              |                                                      |
-|                                               |                         |                                                              |                                                      |
+| Name                                                         | Organizer               | Prizes                                                       | Extra Info                                           |
+| ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| [**Microsoft Imagine Cup**](https://imaginecup.microsoft.com/en-us/Events) | Microsoft               | USD 100,000 cash prize, and mentorship with Microsoft Chairman and CEO, Satya Nadella |                                                      |
+| [**NASA Space Apps Challenge**](https://www.spaceappschallenge.org/) | NASA                    | Recognition and chance to visit NASA                         |                                                      |
+| **NASA Space Apps Challenge Bangladesh**                     | BASIS                   | Recognition and qualify to global round                      |                                                      |
+| [**International Blockchain Olympiad**](https://ibcol.org/)  | IBCOL                   | Recognition, mentorship for 50+ teams                        |                                                      |
+| [**Bangladesh Blockchain Olympiad**](https://bcolbd.org/)    | BCOLBD                  | Prizemoney of more than 10 lakhs+ for 15+ teams and qualification to International |                                                      |
+| [**APICTA Awards**](https://apicta.org/)                     | APICTA                  | Recognition                                                  | known as the Oscars of the Asia-Pacific ICT industry |
+| [**BASIS National ICT Awards**](https://bnia.basis.org.bd/)  | BASIS                   | Recognition and qualification to APICTA Awards               |                                                      |
+| **National STEM Festival**                                   | BdSTEM                  | Prizemoney worth 3 lakhs+ for top 3 teams                    |                                                      |
+| **Robi Hackathon**                                           | Robi                    |                                                              |                                                      |
+| **Digital Ninja Codemasters Hackathon**                      | GP                      |                                                              |                                                      |
+| **GP Skitto Hackathon**                                      | GP                      | Prizemoney of 2lakhs for top 3 teams                         |                                                      |
+| **BD Apps National Hackathon**                               | BD Apss                 | Prizemoney worth 5 lakhs                                     |                                                      |
+| **Therap Java Fest**                                         | Therap BD               | Smartphones for top 3 team                                   |                                                      |
+| **Affine Hackathon**                                         | Affine, BdOSN           | Prizemoney of 1.5 lakhs                                      | Web3 based                                           |
+| **BdOSN devmania**                                           | BdOSN                   |                                                              |                                                      |
+| **BUET CSE Fest Hackathon**                                  | BUET CSE Dept           | Prizemoney worth 2.5 lakhs+ for 10 teams                     |                                                      |
+| **MIST Inter University ICT Innovation Fest**                | MIST Computer Club      | Prizemoney of 3.15 lakh for 10 teams                         |                                                      |
+| **HACK NSU**                                                 | NSU ACM Student Chapter | Prizemoney of 50K for 3 teams                                |                                                      |
+| **Code Samurai DU**                                          | DU CSE Dept             |                                                              |                                                      |
+| **RUET CSE Fest Hackathon**                                  | RUET CSE Dept           |                                                              |                                                      |
+| **Hack The Verse IIT**                                       | DU IIT Dept             |                                                              |                                                      |
+|                                                              |                         |                                                              |                                                      |
 
 ## CTF
 
