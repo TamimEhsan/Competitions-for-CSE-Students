@@ -30,6 +30,19 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 
 
 
+## AI and ML
+
+| Name                                                         | Organizer     | Prizes                                            | Extra Info |
+| ------------------------------------------------------------ | ------------- | ------------------------------------------------- | ---------- |
+| **[IEEE Signal Processing Cup](https://signalprocessingsociety.org/community-involvement/signal-processing-cup)** | IEEE          | $5,000 ,$2,500 ,$1,500                            |            |
+| **[IEEE Video and Image Processing Cup (VIP Cup)](https://signalprocessingsociety.org/community-involvement/video-image-processing-cup)** | IEEE          | $5,000 ,$2,500 ,$1,500                            |            |
+| **BUET CSE Fest Deep Learning Sprint**                       | BUET CSE Dept | Prizemoney of 2.5 lakhs+                          |            |
+| **BUET CSE Fest AI Contest**                                 | BUET CSE Dept | Prizemoney of 50 thousands for top 3 participants |            |
+
+
+
+
+
 ## Hackathons
 
 | Name                                                         | Organizer               | Prizes                                                       | Extra Info                                           |
@@ -37,6 +50,7 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | [**Microsoft Imagine Cup**](https://imaginecup.microsoft.com/en-us/Events) | Microsoft               | USD 100,000 cash prize, and mentorship with Microsoft Chairman and CEO, Satya Nadella |                                                      |
 | [**NASA Space Apps Challenge**](https://www.spaceappschallenge.org/) | NASA                    | Recognition and chance to visit NASA                         |                                                      |
 | **NASA Space Apps Challenge Bangladesh**                     | BASIS                   | Recognition and qualify to global round                      |                                                      |
+| [**Kibo Robot Programming Challenge**](https://jaxa.krpc.jp/) | JAXA                    | Winners' code will be uploaded in International Space Station for live testing |                                                      |
 | [**International Blockchain Olympiad**](https://ibcol.org/)  | IBCOL                   | Recognition, mentorship for 50+ teams                        |                                                      |
 | [**Bangladesh Blockchain Olympiad**](https://bcolbd.org/)    | BCOLBD                  | Prizemoney of more than 10 lakhs+ for 15+ teams and qualification to International |                                                      |
 | [**APICTA Awards**](https://apicta.org/)                     | APICTA                  | Recognition                                                  | known as the Oscars of the Asia-Pacific ICT industry |
@@ -62,13 +76,6 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | Name               | Organizer                | Prizes | Extra Info |
 | ------------------ | ------------------------ | ------ | ---------- |
 | **Flag Hunt 2022** | CTF Community Bangladesh |        |            |
-
-## AI and ML
-
-| Name                                   | Organizer     | Prizes                                            | Extra Info |
-| -------------------------------------- | ------------- | ------------------------------------------------- | ---------- |
-| **BUET CSE Fest Deep Learning Sprint** | BUET CSE Dept | Prizemoney of 2.5 lakhs+                          |            |
-| **BUET CSE Fest AI Contest**           | BUET CSE Dept | Prizemoney of 50 thousands for top 3 participants |            |
 
 
 
