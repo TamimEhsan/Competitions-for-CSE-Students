@@ -14,9 +14,9 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
 | [**International Collegiate Programming Contest**](https://icpc.global/) | ACM                                                         | Recognition                                                  |                                   |
 | **International Collegiate Programming Contest Dhaka Regional** | BAPS                                                        | Participation in ICPC final and many other prizes for top ten |                                   |
-| [**Google Codejam**](https://codingcompetitions.withgoogle.com/codejam) | Google                                                      | Prizes in different rounds                                   |                                   |
+| [**Google Codejam**](https://codingcompetitions.withgoogle.com/codejam) | Google                                                      | Prizes in different rounds                                   | Discontinued                      |
 | [**Code Jam to I/O for Women**](https://codingcompetitions.withgoogle.com/codejamio/archive) | Google                                                      | As a Code Jam to I/O for Women contestant, you will receive a certificate after the Round, as long as you make one submission. |                                   |
-| [**Google Hashcode**](https://codingcompetitions.withgoogle.com/hashcode) | Google                                                      |                                                              |                                   |
+| [**Google Hashcode**](https://codingcompetitions.withgoogle.com/hashcode) | Google                                                      |                                                              | Discontinued                      |
 | [**Meta Hackercup**](https://www.facebook.com/codingcompetitions/hacker-cup) | Meta                                                        | Prizes in different rounds                                   |                                   |
 | **National Collegiate Programming Contest**                  | ICT Ministry                                                | Prizemoney for top 10 teams                                  |                                   |
 | **National Girls Programming Contest**                       |                                                             |                                                              | For Female Contestants            |
@@ -52,6 +52,7 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | **NASA Space Apps Challenge Bangladesh**                     | BASIS                   | Recognition and qualify to global round                      |                                                      |
 | [**Kibo Robot Programming Challenge**](https://jaxa.krpc.jp/) | JAXA                    | Winners' code will be uploaded in International Space Station for live testing |                                                      |
 | [**International Blockchain Olympiad**](https://ibcol.org/)  | IBCOL                   | Recognition, mentorship for 50+ teams                        |                                                      |
+| **[National STEAM Olympad](https://nationalsteamolympiad.com/)** | iTesseract              | Prizemoney of more than 3.5 lakhs+                           |                                                      |
 | [**Bangladesh Blockchain Olympiad**](https://bcolbd.org/)    | BCOLBD                  | Prizemoney of more than 10 lakhs+ for 15+ teams and qualification to International |                                                      |
 | [**APICTA Awards**](https://apicta.org/)                     | APICTA                  | Recognition                                                  | known as the Oscars of the Asia-Pacific ICT industry |
 | [**BASIS National ICT Awards**](https://bnia.basis.org.bd/)  | BASIS                   | Recognition and qualification to APICTA Awards               |                                                      |
@@ -73,9 +74,10 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 
 ## CTF
 
-| Name               | Organizer                | Prizes | Extra Info |
-| ------------------ | ------------------------ | ------ | ---------- |
-| **Flag Hunt 2022** | CTF Community Bangladesh |        |            |
+| Name                                 | Organizer                | Prizes    | Extra Info |
+| ------------------------------------ | ------------------------ | --------- | ---------- |
+| **Flag Hunt 2022**                   | CTF Community Bangladesh |           |            |
+| [MIST LEETCON](https://leetcon.org/) | MIST                     | 500K BDT+ |            |
 
 
 
