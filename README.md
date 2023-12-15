@@ -54,6 +54,7 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | [**International Blockchain Olympiad**](https://ibcol.org/)  | IBCOL                   | Recognition, mentorship for 50+ teams                        |                                                      |
 | **[National STEAM Olympad](https://nationalsteamolympiad.com/)** | iTesseract              | Prizemoney of more than 3.5 lakhs+                           |                                                      |
 | [**Bangladesh Blockchain Olympiad**](https://bcolbd.org/)    | BCOLBD                  | Prizemoney of more than 10 lakhs+ for 15+ teams and qualification to International |                                                      |
+| [**Code Samurai DU**](https://codesamuraibd.net/)            | DU CSE Dept             | Prizemoney of more than 5 lakhs+ for top ten and job opportunity from Japan | Preli is kind of problem solving based               |
 | [**APICTA Awards**](https://apicta.org/)                     | APICTA                  | Recognition                                                  | known as the Oscars of the Asia-Pacific ICT industry |
 | [**BASIS National ICT Awards**](https://bnia.basis.org.bd/)  | BASIS                   | Recognition and qualification to APICTA Awards               |                                                      |
 | **National STEM Festival**                                   | BdSTEM                  | Prizemoney worth 3 lakhs+ for top 3 teams                    |                                                      |
@@ -67,7 +68,6 @@ If there are any mistakes that needs to be corrected create a pull request or ra
 | **BUET CSE Fest Hackathon**                                  | BUET CSE Dept           | Prizemoney worth 2.5 lakhs+ for 10 teams                     |                                                      |
 | **MIST Inter University ICT Innovation Fest**                | MIST Computer Club      | Prizemoney of 3.15 lakh for 10 teams                         |                                                      |
 | **HACK NSU**                                                 | NSU ACM Student Chapter | Prizemoney of 50K for 3 teams                                |                                                      |
-| **Code Samurai DU**                                          | DU CSE Dept             |                                                              |                                                      |
 | **RUET CSE Fest Hackathon**                                  | RUET CSE Dept           |                                                              |                                                      |
 | **Hack The Verse IIT**                                       | DU IIT Dept             |                                                              |                                                      |
 |                                                              |                         |                                                              |                                                      |
